@@ -4,7 +4,7 @@ function App() {
     <>
     <div style={{
       width:600,
-      height:400,
+      height:356,
       background:"white",
     }}>
 
