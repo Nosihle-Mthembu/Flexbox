@@ -3,7 +3,7 @@ function App() {
   return (
     <>
     <div style={{
-      width:500,
+      width:600,
       height:400,
       background:"white",
     }}>
@@ -13,19 +13,19 @@ function App() {
       gap:5,
       }}>
         <div style={{
-          width:200,
+          width:300,
           height:100,
           background:"grey",
           border:"1px solid white",
         }}></div>
         <div style={{
-          width:150,
+          width:220,
           height:100,
           background:"green",
           border:"1px solid white"
         }}></div>
         <div style={{
-          width:200,
+          width:300,
           height:100,
           background:"grey",
           border:"1px solid white",
@@ -63,19 +63,19 @@ function App() {
         gap:5,
       }}>
         <div style={{
-          width:200,
+          width:300,
           height:100,
           background:"grey",
           border:"1px solid white",
         }}></div>
         <div style={{
-          width:150,
+          width:220,
           height:100,
           background:"green",
           border:"1px solid white"
         }}></div>
         <div style={{
-          width:200,
+          width:300,
           height:100,
           background:"grey",
           border:"1px solid white",
